@@ -1,0 +1,14 @@
+<p id="text" class="blue-text">This is blue text.</p>
+<button onclick="changeColor()">Change Color</button>
+
+
+.red-text {
+  color: red;
+}
+
+
+<script>
+  function changeColor() {
+    document.getElementById("text").className = "red-text";
+  }
+</script>
