@@ -1,0 +1,10 @@
+<style>
+  :root {
+    --my-color: teal;
+  }
+  .custom-color {
+    color: var(--my-color);
+  }
+</style>
+
+<p class="custom-color">This uses a CSS variable.</p>
