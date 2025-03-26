@@ -1,0 +1,9 @@
+.text-purple {
+  color: purple;
+}
+
+
+or
+
+<link rel="stylesheet" href="style.css">
+<p class="text-purple">This is purple text.</p>
