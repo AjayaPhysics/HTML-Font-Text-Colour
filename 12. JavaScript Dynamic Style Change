@@ -1,0 +1,5 @@
+<p id="dynamicText">This will change colour with JavaScript.</p>
+
+<script>
+  document.getElementById("dynamicText").style.color = "crimson";
+</script>
